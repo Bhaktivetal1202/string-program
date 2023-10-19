@@ -1,4 +1,4 @@
-#include<stdio.h>
+\* accept string and display length*/#include<stdio.h>
 #include<string.h>
 int main()
 {

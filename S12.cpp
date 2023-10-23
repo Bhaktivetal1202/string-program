@@ -1,3 +1,4 @@
+/* accept string and display even character */
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>

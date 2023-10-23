@@ -1,3 +1,4 @@
+/* accept two string and print greater string */
 #include<stdio.h>
 #include<string.h>
 int main()

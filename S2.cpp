@@ -1,3 +1,4 @@
+/* accept the string array and display the names in ascending order */
 #include<stdio.h>
 #include<string.h>
 struct stud

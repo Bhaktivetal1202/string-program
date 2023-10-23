@@ -1,3 +1,4 @@
+/* accept string and print the length with out string function */
 #include<stdio.h>
 #include<string.h>
 int main()

@@ -1,3 +1,4 @@
+/* accept three strings and display greater string */
 #include<stdio.h>
 #include<string.h>
 int main()

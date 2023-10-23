@@ -1,4 +1,4 @@
-/* accept string and count lowercharacter,digit,upper character and symbol */
+/* accept string and count lower character,digit,upper character and symbol */
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>

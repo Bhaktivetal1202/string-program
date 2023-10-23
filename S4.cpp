@@ -1,3 +1,4 @@
+/* accept string and display string character */
 #include<stdio.h>
 #include<string.h>
 int main()

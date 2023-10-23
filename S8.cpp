@@ -1,3 +1,4 @@
+/* accept uppercase string and convert into lowercase with out string finction */
 #include<stdio.h>
 #include<string.h>
 int main()

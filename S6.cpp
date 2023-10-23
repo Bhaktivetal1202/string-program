@@ -1,3 +1,4 @@
+/* accept string and display reverse string without string function */
 #include<stdio.h>
 #include<string.h>
 int main()

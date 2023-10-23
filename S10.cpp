@@ -1,3 +1,4 @@
+/* accept string and accept character and place the characetr at correct position */
 #include<stdio.h>
 #include<string.h>
 int main()

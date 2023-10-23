@@ -1,3 +1,4 @@
+/* accept string and display smaller string */
 #include<stdio.h>
 #include<string.h>
 int main()
